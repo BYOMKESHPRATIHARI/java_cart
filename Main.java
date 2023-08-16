@@ -5,7 +5,7 @@ package collections.shoppingcart;
 
 /**
  *
- * @author Varun Shrivastava 
+ * @author Byomkesh Pratihari
  */
 public class Main {
     public static void main (String [] args) {
